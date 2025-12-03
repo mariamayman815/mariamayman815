@@ -19,7 +19,7 @@
 
 ### 🌸 About Me
 - 💻 Computer Science Student  
-- 💗 Currently learning **Flutter**, **Dart**, and **UI/UX**  
+- 💗 Currently learning **Front-End Develpoment**, **Pandas**, and **Numby**  
 - 🎨 Love designing apps & digital art  
 - 🌱 Exploring Open Source & Mobile Development  
 - ⚡ Fun fact: I turn coffee into code ☕→💻
