@@ -20,74 +20,70 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-</p>
-
-### **Front-End**
-<p>
-  <img src="https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-green" />
-</p>
-
-### **Back-End (Learning Path)**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-blue" />
-</p>
-
-### **Tools & IDEs**
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" />
-</p>
-
-### **Other Skills**
-<p>
-  <img src="https://img.shields.io/badge/Qt%20Framework-C++-green" />
-  <img src="https://img.shields.io/badge/Turtle-Python-lightblue" />
-</p>
-
----
-
-## 🚧 What I'm Working On
-- Building **Front-End web apps**  
-- Practicing **problem solving** & **competitive programming**  
-- Learning Back-End (**Node.js, Express, Databases**)  
-- Exploring **Machine Learning basics**  
-
----
-
-## 📈 GitHub Stats
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <!-- IDEs -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+  <img src="https://skillicons.dev/icons?i=pycharm" width="50" />
+  <img src="https://skillicons.dev/icons?i=idea" width="50" />
+  <img src="https://skillicons.dev/icons?i=clion" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" />
+
+  <!-- Hardware / Electronics -->
+  <img src="https://img.icons8.com/fluency/48/arduino.png" width="50" title="Arduino IDE"/>
+
+  <!-- Qt / Widgets -->
+  <img src="https://img.icons8.com/color/48/000000/qt.png" width="50" title="Qt Framework"/>
+  <img src="https://img.icons8.com/fluency/48/windows10.png" width="50" title="Windows Widgets"/>
+
+  <!-- Learning Path -->
+  <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux (Learning Soon)"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="50" title="Shell Scripting (Learning Soon)"/>
+</p>
+
+---
+
+## 🚧 Current Work / Projects
+- 🔧 Building **Front-End web apps**  
+- 📚 Practicing **problem solving** & **competitive programming**  
+- 🚀 Learning Back-End (**Node.js, Express, Databases**)  
+- 🤖 Exploring **Machine Learning basics**  
+
+---
+
+## 📈 GitHub Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## 🔗 Connect with Me
-- 📧 Email: **your-email@example.com**  
-- 🔗 LinkedIn: *your-link-here*  
+- 📧 Email: **mariamayman23hh@gmail.com**  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/mariam-ayman-587b13330/*  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
