@@ -66,7 +66,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="your-link-here"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mariamayman23hh@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[your-link-here](https://www.linkedin.com/in/mariam-ayman-587b13330/)"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
