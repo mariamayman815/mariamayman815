@@ -1,5 +1,4 @@
 <h1 align="center" style="color:#00FFFF;">Hi 👋, I'm Mariam</h1>
-<h3 align="center" style="color:#FF00FF;">Front-End Developer (React) | Aspiring Full-Stack Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Front--End-React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" /></a>
